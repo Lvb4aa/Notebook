@@ -4,3 +4,4 @@
 
 Para ejecutar el sistema:
 ```npm install react```
+Registro2 
